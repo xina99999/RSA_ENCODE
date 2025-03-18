@@ -1,0 +1,24 @@
+{
+  "name": "rsa_encode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Trong Nhan",
+  "license": "ISC",
+  "description": "encrypted and decrypted data only rsa",
+  "dependencies": {
+    "jsencrypt": "^3.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xina99999/RSA_ENCODE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xina99999/RSA_ENCODE/issues"
+  },
+  "homepage": "https://github.com/xina99999/RSA_ENCODE#readme"
+}
